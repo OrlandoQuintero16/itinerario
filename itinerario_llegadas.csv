@@ -1,0 +1,101 @@
+No.,Aerolínea,Aeronave,Vuelo de llegada,Hora de llegada,Origen,Banda de reclamo,Posición
+1,Mexicana de Aviación ,738,1991,09/07/2025 09:40,Ixtepec,2,108B
+2,Viva Areobus,32N,9235,09/07/2025 19:40,Mazatlan,1,106B
+3,Viva Areobus,32A,9293,09/07/2025 20:20,Huatulco,1,106A
+4,Mexicana de Aviación ,738,1105,09/07/2025 22:20,Monterrey,2,108A
+5,Volaris,320,3534,09/07/2025 22:48,Cancun,2,109A
+6,Viva Areobus,320,2288,09/07/2025 23:10,Cancun,1,505
+7,Viva Areobus,320,9407,09/07/2025 23:30,Monterrey,1,112A
+8,MasAir,333,6344,09/07/2025 23:35,Bogota,---,602
+9,Viva Areobus,320,9405,09/07/2025 23:40,Monterrey,1,502
+10,Estafeta,734,1610,10/07/2025 00:05,Villahermosa,---,601A
+11,Emirates Airlines,77F,9919,10/07/2025 00:45,Zaragoza,---,604
+10,Volaris,32N,3296,10/07/2025 01:02,Tijuana,1,109B
+11,Mexicana de Aviación ,738,1205,10/07/2025 03:14,Tijuana,1,108A
+12,La Nueva Aerolínea,738,902,10/07/2025 04:00,Panama City,---,602A
+13,Estafeta,734,615,10/07/2025 05:00,San Luis Potosi,---,601B
+14,Viva Areobus,320,771,10/07/2025 05:25,Bogota,6,114A
+15,Ethiopian Airlines,77X,3516,10/07/2025 06:00,Zaragoza,---,603
+16,United Parcel Service,763,320,10/07/2025 06:19,Louisville,---,602B
+17,Viva Areobus,320,7240,10/07/2025 07:25,Guadalajara,1,106B
+18,Viva Areobus,320,7344,10/07/2025 07:30,Bajio ,1,107A
+19,Viva Areobus,320,2272,10/07/2025 07:30,Cancun,1,106A
+20,Aeromexico,E90,2469,10/07/2025 07:33,Durango,3,111B
+21,Aeromexico,E90,287,10/07/2025 07:39,Guadalajara,3,111A
+22,Viva Areobus,321,7350,10/07/2025 07:55,Merida,2,505
+23,Viva Areobus,321,7332,10/07/2025 08:00,Monterrey,2,502
+24,Volaris,320,1290,10/07/2025 08:00,Guadalajara,2,109A
+25,Cargojet Airways,76Y,952,10/07/2025 08:30,Cincinnati,---,602A
+26,Cargolux,748/74N,5163,10/07/2025 08:30,Anchorage,---,604
+27,Arajet ,7M8,7104,10/07/2025 09:06,Punta Cana,6,114A
+28,Viva Areobus,320,9521,10/07/2025 09:25,Guadalajara,1,106B
+29,Viva Areobus,320,9223,10/07/2025 09:55,Puerto Escondido,1,106A
+30,Air China,77F,3125,10/07/2025 10:10,Anchorage,---,603
+31,Viva Areobus,321,7428,10/07/2025 10:25,Tijuana,2,505
+32,Air Canada,763,7248,10/07/2025 10:30,Dallas Fort Worth,---,602B
+33,Viva Areobus,320,9215,10/07/2025 10:35,Oaxaca,2,107B
+34,Cargojet Airways,76Y,920,10/07/2025 10:43,Cincinnati,---,601A
+35,Viva Areobus,320,7442,10/07/2025 10:50,San Jose Del Cabo,1,107A
+36,Mexicana de Aviación ,738,1141,10/07/2025 11:00,Ciudad Victoria,3,108B
+37,Aeromexico,E90,2781,10/07/2025 11:18,Houston,7,113A
+38,Aeromexico,E90,2437,10/07/2025 11:22,Colima,3,111B
+39,Viva Areobus,320,7438,10/07/2025 11:40,Ciudad Juarez,1,108A
+40,Viva Areobus,320,7416,10/07/2025 11:40,Cancun,1,106B
+41,Aeurus,CNF,241,10/07/2025 11:45,Poza Rica,1,501
+42,Aeromexico,7S8,589,10/07/2025 11:48,Cancun,3,111A
+43,Viva Areobus,320,7446,10/07/2025 12:10,Hermosillo,2,106A
+44,Viva Areobus,321,7333,10/07/2025 12:10,Villahermosa,2,502
+45,Viva Areobus,321,7351,10/07/2025 12:20,Puerto Vallarta,2,505
+46,Cathay Pacific,74N,86,10/07/2025 12:30,Anchorage,---,605A
+47,Awesome Cargo,332,902,10/07/2025 12:40,Anchorage,---,604
+48,Aeurus,CNF,341,10/07/2025 12:45,San Luis Potosi,1,501
+49,Viva Areobus,320,7241,10/07/2025 12:55,Tulum,1,107A
+50,Aeromexico,E90,593,10/07/2025 13:14,Tulum,3,111B
+51,Viva Areobus,320,7345,10/07/2025 13:15,Chihuahua,1,106B
+52,MasAir,332,3629,10/07/2025 13:20,Anchorage,---,603
+53,MasAir,333,6845,10/07/2025 13:30,Guadalajara,---,602
+54,Viva Areobus,320,843,10/07/2025 13:35,Jose Marti ,6,114A
+55,Volaris,320,3532,10/07/2025 13:56,Cancun,2,109A
+56,Viva Areobus,320,9295,10/07/2025 14:05,Huatulco,1,107B
+57,DHL Guatemala,75F,5218,10/07/2025 14:20,Guatemala City,---,601B
+58,Mexicana de Aviación ,738,1781,10/07/2025 14:45,Tulum,3,108A
+59,Viva Areobus,320,9429,10/07/2025 14:45,Tepic,1,107A
+60,Viva Areobus,320,7379,10/07/2025 14:55,Monterrey,2,106A
+61,Viva Areobus,321,7429,10/07/2025 15:10,Tuxtla Gutierrez,2,502
+62,Atlas Air,77F,346,10/07/2025 15:25,Anchorage,---,605A
+63,Mexicana de Aviación ,738,1923,10/07/2025 15:55,Palenque,1,108B
+64,Volaris,320,7113,10/07/2025 16:01,Merida,1,109A
+65,Lufthansa,77X,8224,10/07/2025 16:10,Frankfurt,---,604
+66,Aeromexico,E90,875,10/07/2025 16:20,Merida,3,111A
+67,Viva Areobus,321,7370,10/07/2025 16:25,La Paz,1,505
+68,Aeromexico,E90,2783,10/07/2025 16:45,Mcallen Mission,7,113A
+69,Viva Areobus,320,7443,10/07/2025 16:50,Cancun,1,106A
+70,Viva Areobus,320,7417,10/07/2025 17:05,Culiacan,1,112B
+71,China Southerrn,77F,2541,10/07/2025 17:05,Harbin,---,602
+72,Aeromexico,E90,881,10/07/2025 17:29,Puerto Vallarta,3,111B
+73,Mexicana de Aviación ,738,1433,10/07/2025 17:30,Guadalajara,1,108A
+74,Viva Areobus,320,7294,10/07/2025 17:35,Monterrey,2,107B
+75,Viva Areobus,320,7439,10/07/2025 17:45,Cancun,2,106B
+76,Viva Areobus,320,5070,10/07/2025 17:50,Tijuana,2,112A
+77,Viva Areobus,320,7447,10/07/2025 17:55,Tulum,1,107A
+78,Viva Areobus,321,7282,10/07/2025 18:10,Merida,2,502
+79,Viva Areobus,320,9387,10/07/2025 18:10,Reynosa,1,106A
+80,Viva Areobus,320,7304,10/07/2025 18:30,Guadalajara,1,112B
+81,Viva Areobus,320,9453,10/07/2025 19:40,Nuevo Laredo,1,106B
+82,Volaris,320,7171,10/07/2025 19:43,La Paz,2,109A
+83,Aerounión,333,7089,10/07/2025 19:52,Los Angeles,---,604
+84,Mexicana de Aviación ,738,1763,10/07/2025 19:55,Merida,2,108A
+85,Aeromexico,E90,995,10/07/2025 19:59,Monterrey,3,111B
+86,Viva Areobus,320,9463,10/07/2025 20:10,Chetumal,2,107B
+87,Viva Areobus,320,2278,10/07/2025 20:10,Cancun,1,106A
+88,Cargolux,74Y,6684,10/07/2025 20:30,Luxembourg,---,605A
+89,Aeromexico,E90,2041,10/07/2025 20:44,Oaxaca,3,111A
+90,Aeromexico,E90,871,10/07/2025 20:50,Veracruz,3,110B
+91,Viva Areobus,320,7295,10/07/2025 21:00,Ixtapa Zihuatanejo,1,106B
+92,Arajet ,7M8,4102,10/07/2025 21:05,Santo Domingo,6,114A
+93,Viva Areobus,320,7305,10/07/2025 22:00,Tampico,1,107A
+94,Viva Areobus,321,7283,10/07/2025 22:15,Puerto Escondido,1,505
+95,Volaris,320,3534,10/07/2025 22:48,Cancun,2,109A
+96,Viva Areobus,320,9407,10/07/2025 22:50,Monterrey,2,107B
+97,Viva Areobus,320,2288,10/07/2025 23:10,Cancun,2,107A
+98,Viva Areobus,320,9405,10/07/2025 23:40,Monterrey,1,106A
